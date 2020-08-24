@@ -1,0 +1,48 @@
+*{
+	font-family: Spectral;
+}
+
+/*Services Secion*/
+
+#services_offered{
+	margin-top: 30px;
+	padding: 20px;
+	text-align: center;
+}
+.services-content{
+	margin-top: 50px;
+}
+
+/* Gallery Section*/
+#gallery{
+	margin top: 100px;
+}
+
+.img-div{
+	text-align: center;
+}
+
+.img-container {
+	text-align: center;
+}
+button{
+	margin-top: 100px;
+}
+/* Footer Style*/
+footer{
+	padding: 20px;
+	margin-top: 50px;
+	background-color: grey;
+	color: #5c2100;
+}
+.footer-link{
+	color: #5c2100;
+}
+.footer-link:hover{
+	color: #5c2100;
+}
+
+
+ul{
+list-style: none;
+}
